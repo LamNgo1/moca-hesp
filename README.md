@@ -1,6 +1,6 @@
 # Overview
 
-Implementation code for paper ***MOCA-HESP: Meta High-dimensional Bayesian Optimization for Combinatorial and Mixed Spaces via Hyper-ellipsoid Partitioning*** published in the *28th European Conference on Artificial Intelligence (ECAI 2025)*. The manuscript will be made available soon.
+Implementation code for paper ***MOCA-HESP: Meta High-dimensional Bayesian Optimization for Combinatorial and Mixed Spaces via Hyper-ellipsoid Partitioning*** published in the *28th European Conference on Artificial Intelligence (ECAI 2025)*. The manuscript can be found here: https://arxiv.org/abs/2508.06847.
 
 ![illustration of boids](moca-hesp-trajectory.png)
 
